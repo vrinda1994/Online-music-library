@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+	<meta charset="utf-8"> 
+	<title>GaanaMasti.com</title> 
+ 
+	<link rel="stylesheet" media="screen" href="style1.css"> 
+</head> 
+  
+<body> 
+<div class="page-wrapper"> 
+ 
+	<section class="intro" > 
+		<header role="banner"> 
+			<h1>GaanaMasti</h1> 
+			<h2>An Online  <abbr title="Cascading Style Sheets">Music</abbr> Library</h2> 
+		</header> 
+ 
+		<div class="summary" id="zen-summary" role="article"> 
+			<p>Welcome to <b><a href="index1.html"> GaanaMasti.com</a>. </b> Tune in to your <abbr title=Cascading Style Sheets">Favourite songs</abbr></p> 
+			<p>Please <a href="./login.html" >Login</a> or SignUp</a></p> 
+		</div> 
+ 	</section> 
+ 
+</body> 
+</html>
